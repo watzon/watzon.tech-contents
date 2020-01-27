@@ -1,5 +1,6 @@
 ---
 title:     Hello world
+slug:      hello-world
 date:      2019-01-26 12:33
 published: true
 ---
